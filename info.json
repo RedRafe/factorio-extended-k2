@@ -1,0 +1,12 @@
+{
+  "name": "factorio-extended-k2",
+  "version": "0.1.0",
+  "title": "Factorio Extended: Krastorio2",
+  "author": "RedRafe",
+  "dependencies": [
+    "base >= 1.1.0",
+    "Krastorio2Assets >= 1.2.1"
+  ],
+  "description": "Extends Factorio vanilla using Krastorio2 graphics",
+  "factorio_version": "1.1"
+}
