@@ -1,0 +1,37 @@
+Entities:
+
+- Medium container, 2x2, 2 steel beam, 4 steel chests, 120 slots
+- Warehouse, 6x6, 10 steel beam,  medium containers, 500 slots
+- Large storage tank, 20 steel, 10 steel beam, 4 steel pipe, 50k
+- Huge storage tank, 60 steel, 20 steel beam, 12 steel pipe, 200k
+- Medium logistic chests, 5 red chips, 1 medium container
+- Logistic warehouse, 5 red chips + 1 warehouse
+- advanced belt 60
+- superior belt 90
+- loaders
+- superior inserter, 1296°/s
+- superior long inserter, 1296°/s
+- superior filter inserter
+- superior long filter inserter
+- substation mk2
+- steel pipe/UG pipe
+- steel pump
+- small roboport 
+- large roboport
+- reinforced concrete
+- wind turbine
+- gas power station
+- advanced solar + accumulator
+- fusion reactor
+- advanced steam turbine
+- antimatter reactor
+- mk2, mk3 electric drills
+- adv assembling machine
+- adv furnace
+- adv chemical plant
+- adv lab
+- singularity lab
+- singularity beacon
+- antimatter rifle
+- equipments
+- 3 new turrets
